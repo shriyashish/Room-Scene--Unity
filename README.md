@@ -41,3 +41,5 @@ One of the scenes:
 General execution steps:
 Download the zip file> Assets > MyFirstProject.unity
 
+Thank you for reading, please do leave a star if liked it! 😄
+
